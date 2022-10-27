@@ -1,3 +1,16 @@
 body {
     background: maroon;
 }
+
+body h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#pic-of-me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+}
